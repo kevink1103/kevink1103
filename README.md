@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkevink1103&count_bg=%23555555&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **kevink1103/kevink1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
